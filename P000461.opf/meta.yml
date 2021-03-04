@@ -1,15 +1,16 @@
-id: opecha:P000461
+id: P000461
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W18300
   title: རྟགས་འཇུག་གི་དགོངས་འགྲེལ་ཀེ་ཏ་ཀའི་གན་མཛོད།
-  volume:
+  author: ''
+  volumes:
     d0533869c7c74ed195a0a7551b06866e:
       image_group_id: I1KG14889
       title: Volume 1 of rtags 'jug gi dgongs 'grel ke ta ka'i gan mdzod
       volume_number: 1
       total_pages: 74
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རྟགས་འཇུག་གི་དགོངས་འགྲེལ་ཀེ་ཏ་ཀའི་གན་མཛོད།
   author: ''
